@@ -8,7 +8,7 @@ Este é um projeto de **aplicação web interativa** que permite ao usuário con
 
 ## 🌍 Demonstração
 
-🔗 [Acesse o site](https://jessica-fuentess.github.io/previsao-do-tempo/)
+🔗 [Acesse o site](https://jessica-fuentess.github.io/Previsao-do-tempo/)
 
 ---
 
@@ -68,7 +68,9 @@ cd previsao-do-tempo
 ---
 
 ## 👩‍💻 Autora
+
 Desenvolvido por Jéssica Fuentes 💜
+
 Desenvolvedora Front-end em transição de carreira, com foco em criação de interfaces funcionais, acessíveis e modernas.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/j%C3%A9ssica-fuentes/)
@@ -78,9 +80,9 @@ Desenvolvedora Front-end em transição de carreira, com foco em criação de in
 ---
 
 ## 📄 Licença
+
 Este projeto está licenciado sob a Licença MIT – fique à vontade para usar, modificar e compartilhar!
 
---
+---
 
-✨ Obrigada por visitar este projeto!
-Se tiver sugestões, dúvidas ou quiser trocar ideias, será um prazer conversar. 😊
+✨ Obrigada por visitar este projeto! Se tiver sugestões, dúvidas ou quiser trocar ideias, será um prazer conversar. 😊
