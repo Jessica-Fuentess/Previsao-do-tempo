@@ -70,6 +70,7 @@ cd previsao-do-tempo
 ## 👩‍💻 Autora
 
 Desenvolvido por Jéssica Fuentes 💜
+
 Desenvolvedora Front-end em transição de carreira, com foco em criação de interfaces funcionais, acessíveis e modernas.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/j%C3%A9ssica-fuentes/)
